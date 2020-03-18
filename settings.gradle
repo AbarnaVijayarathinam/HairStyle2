@@ -1,0 +1,2 @@
+rootProject.name='HairStyle2'
+include ':app'
